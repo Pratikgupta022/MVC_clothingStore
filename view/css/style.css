@@ -1,0 +1,40 @@
+.image-relative{
+    /*margin: 3%;*/
+    /*position: relative;*/
+}
+.image-text{
+    position: absolute;
+    color: ghostwhite;
+    left: 210px;
+    padding-top: 257px;
+    font-size: 60px;
+}
+.image-text2{
+    font-size: 60px;
+    color: ghostwhite;
+    right: 170px;
+    position: absolute;
+    padding-top: 200px;
+}
+.image-text3{
+    position: absolute;
+    color: ghostwhite;
+    left: 251px;
+    padding-top: 361px;
+    font-size: 60px;
+}
+.image-text4{
+    position: absolute;
+    color: ghostwhite;
+    right: 251px;
+    padding-top: 200px;
+    font-size: 60px;
+}
+
+.error-text p{
+    font-size: 250px;
+    background-color: red;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
